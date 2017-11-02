@@ -1,0 +1,13 @@
+{
+	"env":
+	{
+	"GOPATH": "$HOME/Development/go"
+	},
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	]
+}
+
