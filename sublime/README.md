@@ -38,3 +38,9 @@ https://packagecontrol.io/installation
 		]
 	}
     ```
+6. Configure GoSublime to use goimports:
+    ```
+    ...
+    "fmt_cmd": ["goimports"],
+    ...
+    ```
